@@ -1,0 +1,1 @@
+{"name":"Local: postfix","url":"d:\\ProjectsC++\\postfix.cpp","tests":[{"id":1668356018484,"input":"21+3*","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ProjectsC++\\postfix.cpp","group":"local","local":true}
