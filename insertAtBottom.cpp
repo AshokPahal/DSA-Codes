@@ -23,8 +23,6 @@ int main(){
     s.push(3);
     s.push(2);
 
-    // int x;
-    // cin>>x;
     atbottom(s,6);
 
     return 0;
